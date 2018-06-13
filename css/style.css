@@ -1,0 +1,38 @@
+.header {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.body {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.topnav {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.topnav a {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.column {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.column.middle {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.column.side {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.footer {
+    font-family: Georgia, 'Times New Roman', Times, serif
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #4aaaa5;
+    color: black;
+    text-align:center;
+}
